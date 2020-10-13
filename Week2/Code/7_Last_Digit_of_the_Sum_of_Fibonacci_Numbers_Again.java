@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 import java.util.Scanner;
+/**
+ *
+ * @author Areeg
+ */
 
 public class Fibonacci {
     private static BigInteger calc_fib(BigInteger firstNo, BigInteger SecondNo) {
