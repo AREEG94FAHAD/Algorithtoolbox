@@ -5,6 +5,11 @@ import java.util.StringTokenizer;
 import java.io. * ;
 import java.util.Arrays;
 
+/**
+ *
+ * @author Areeg
+ */
+
 public class MaxPairwiseProductt {
   static Long getTheMaximumPairwise(long[] numbers) {
     Long result = Long.valueOf(0);
