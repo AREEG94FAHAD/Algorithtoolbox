@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 import java.util.Scanner;
+/**
+ *
+ * @author Areeg
+ */
 
 public class Last_Digit_of_the_Sum_of_Square_Fibonacci_Numbers_Again {
   private static BigInteger calc_fib(BigInteger n) {
