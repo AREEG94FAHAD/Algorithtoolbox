@@ -1,5 +1,9 @@
 import java.math.BigInteger;
 import java.util.Scanner;
+/**
+ *
+ * @author Areeg
+ */
 
 public class Last_Digit_of_a_Large_Fibonacci_Number {
   private static BigInteger calc_fib(BigInteger firstNo) {
