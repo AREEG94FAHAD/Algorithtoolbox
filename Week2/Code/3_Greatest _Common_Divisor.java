@@ -1,4 +1,8 @@
 import java.util.*;
+/**
+ *
+ * @author Areeg
+ */
 
 public class GCD {
   private static int gcd(int a, int b) {
